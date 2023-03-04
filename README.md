@@ -1,0 +1,2 @@
+# QuizGameApp
+ Unquote is a quiz game Android application. In this application, you will see an image and a quote with four different options. You have to select the correct answer from these four options. If the answer is correct, you will receive a point; otherwise, you won't receive any points. The game will continue until all the questions are answered. After that, you will get a score according to the number of correct answers you have given.
